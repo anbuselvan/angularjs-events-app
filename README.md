@@ -1,9 +1,19 @@
 # angularjs-events-app
 A light weight web scrapper to extract event data from popular events listing websites.
 
+Installation
+============
+    git clone https://github.com/anbuselvan/angularjs-events-app.git
+    cd angularjs-events-app
+    npm install
+    bower install
+    node server.js
+
+
+Sample Input Data
+=================
 
 ```javascript
-// Sample data 
 var websites = [
     {
         domain: 'events.stanford.edu',
