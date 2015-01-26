@@ -1,5 +1,5 @@
 # angularjs-events-app
-A light weight web scrapper to extract event data from popular events listing websites.
+A lightweight web scrapper to extract event data from popular events listing websites.
 
 # Requirements
     nodejs, mongodb, bower
