@@ -4,7 +4,8 @@
 		{
 			"folder_exclude_patterns":
 			[
-				"public/components"
+				"public/components",
+				"node_modules"
 			],
 			"follow_symlinks": true,
 			"path": "."
