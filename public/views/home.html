@@ -1,0 +1,28 @@
+    <div id="website-list" class="row">
+      <div class="col-md-10 col-md-offset-1">
+
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <strong>Websites</strong>
+            <a type="button" class="btn btn-success pull-right" ui-sref="add"><i class="glyphicon glyphicon-plus-sign"></i></a>
+            <div class="clearfix"></div>
+          </div>
+          <div class="panel-body">
+            <div ng-repeat="website in websites">
+              <div class="row">
+                <div class="form-group">
+                  <a class="col-md-8 site-url" ui-sref="events({id: website._id})"><strong>{{website.domain}}</strong></a>
+                  <a type="button" class="btn btn-default close" ng-click="deleteWebsite($index,website._id)"><i class="glyphicon glyphicon-remove"></i></a>
+                  <a type="button" class="btn btn-default close" ui-sref="edit({id: website._id})"><i class="glyphicon glyphicon-pencil"></i></a>
+                </div>
+              </div>
+              <hr>
+            </div>
+            <div ng-hide="websites.length">Please add new website.</div>
+          </div>
+        </div>
+
+        <pre>data = {{websites | json}}</pre>
+
+      </div>
+    </div>

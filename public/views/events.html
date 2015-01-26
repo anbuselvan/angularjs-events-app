@@ -1,0 +1,45 @@
+    <div id="events-list" class="row">
+      <div class="col-md-10 col-md-offset-1">
+
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h4 class="pull-left">Events ({{domain}})</h4>
+            <a type="button" class="btn btn-default close" ui-sref="home"><i class="glyphicon glyphicon-home"></i></a>
+            <a type="button" ng-class="{active: layout == 'grid'}" class="btn btn-default close" ng-click="layout = 'grid'"><i class="glyphicon glyphicon-th"></i></a>
+            <a type="button" ng-class="{active: layout == 'list'}" class="btn btn-default close" ng-click="layout = 'list'"><i class="glyphicon glyphicon-th-list"></i></a>
+            <div class="clearfix"></div>
+          </div>
+          <div class="panel-body">
+            <ul ng-show="layout == 'list'" class="list col-md-12">
+              <li ng-repeat="event in events">
+                <div class="panel panel-warning">
+                  <div class="panel panel-heading">
+                    <div ng-show="(event.date != '')">{{event.date}}</div>
+                    <div ng-show="(event.time != '')">{{event.time}}</div>
+                  </div>
+                  <div class="panel-body">
+                    <a href="{{event.link}}" target="_new">{{event.title}}</a>
+                  </div>
+                </div>
+              </li>
+            </ul>
+            <ul ng-show="layout == 'grid'" class="grid">
+              <li ng-repeat="event in events">
+                <div class="panel panel-warning">
+                  <div class="panel panel-heading">
+                    <div ng-show="(event.date != '')">{{event.date}}</div>
+                    <div ng-show="(event.time != '')">{{event.time}}</div>
+                  </div>
+                  <div class="panel-body">
+                    <a href="{{event.link}}" target="_new">{{event.title}}</a>
+                  </div>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+
+        <pre>data = {{events | json}}</pre>
+
+      </div>
+    </div>

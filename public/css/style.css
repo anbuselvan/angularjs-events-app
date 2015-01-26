@@ -1,0 +1,46 @@
+.form-group.required .control-label:after {
+    color: #d00;
+    content: " *";
+    position: relative;
+    margin-left: 2px;
+}
+
+.close {
+  margin-right: 30px;
+}
+
+.site-url {
+  font-size: 20px;
+}
+
+h4 {
+  color: #777;
+}
+
+ul.list {
+  list-style: none;
+  text-align: left;
+}
+
+ul.list li {
+  padding: 10px;
+  overflow: hidden;
+}
+
+ul.list li a {
+  vertical-align: top;
+}
+
+ul.grid{
+  list-style: none;
+  text-align: left;
+}
+
+ul.grid li {
+  width: 250px;
+  min-height: 100px;
+  display: inline-block;
+  padding: 2px;
+  margin: 10px;
+  vertical-align: top;
+}

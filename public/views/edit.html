@@ -1,0 +1,114 @@
+    <div id="website-form" class="row">
+      <div class="col-md-10 col-md-offset-1">
+
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            Add Website
+          </div>
+          <div class="panel-body">
+            <form role="form" name="form1" ng-submit="saveWebsite(form1.$valid)">
+              <div class="row">
+                <div class="col-md-4">
+                  <div class="form-group required">
+                    <label class="control-label" for="domain">Domain</label>
+                    <input required type="text" name="domain" class="form-control" placeholder="Domain" ng-model="formData.domain">
+                  </div>
+                </div>
+                <div class="col-md-8">
+                  <div class="form-group required">
+                    <label class="control-label" for="url">URL</label>
+                    <input required type="text" name="url" class="form-control" placeholder="Website URL" ng-model="formData.url">
+                  </div>
+                </div>
+              </div>
+              <div><h4>Event DOM Selectors:</h4></div>
+              <div class="row">
+                <div class="col-md-4">
+                  <div class="form-group required">
+                      <label class="control-label" for="item">Item selector</label>
+                      <input required type="text" name="item" class="form-control" placeholder="root item selector" ng-model="formData.item">
+                  </div>
+                </div>
+                <div class="col-md-4">
+                  <div class="form-group required">
+                      <label class="control-label" for="title">Title</label>
+                      <input required type="text" name="title" class="form-control" placeholder="title selector" ng-model="formData.title">
+                  </div>
+                </div>
+                <div class="col-md-4">
+                  <div class="form-group required">
+                      <label class="control-label" for="link">Link (use 'this' for current item)</label>
+                      <input required type="text" name="link" class="form-control" placeholder="link selector" ng-model="formData.link">
+                  </div>
+                </div>
+              </div>
+
+              <div class="row">
+                <div class="col-md-4">
+                  <div class="form-group required">
+                      <label class="control-label" for="link_attr">Link Attribute</label>
+                      <input required type="text" name="link_attr" class="form-control" placeholder="link attribute selector" ng-model="formData.link_attr">
+                  </div>
+                </div>
+                <div class="col-md-4">
+                  <div class="form-group">
+                    <label class="control-label" for="link_prefix">Link Prefix URL</label>
+                    <input type="text" name="link_prefix" class="form-control" placeholder="link prefix url" ng-model="formData.link_prefix">
+                  </div>
+                </div>
+                <div class="col-md-4">
+                  <div class="form-group">
+                      <label class="control-label" for="image_url">Image URL</label>
+                      <input type="text" name="image_url" class="form-control" placeholder="image url selector" ng-model="formData.image_url">
+                  </div>
+                </div>
+              </div>
+
+              <div class="row">
+                <div class="col-md-4">
+                  <div class="form-group">
+                      <label class="control-label" for="image_url_prefix">Image URL Prefix</label>
+                      <input type="text" name="image_url_prefix" class="form-control" placeholder="image url prefix" ng-model="formData.image_url_prefix">
+                  </div>
+                </div>
+                <div class="col-md-4">
+                  <div class="form-group">
+                      <label class="control-label" for="date">Date</label>
+                      <input type="text" name="date" class="form-control" placeholder="date selector" ng-model="formData.date">
+                  </div>
+                </div>
+                <div class="col-md-4">
+                  <div class="form-group">
+                      <label class="control-label" for="date_regex">Date Regex</label>
+                      <input type="text" name="date_regex" class="form-control" placeholder="date regex selector" ng-model="formData.date_regex">
+                  </div>
+                </div>
+              </div>
+
+              <div class="row">
+                <div class="col-md-4">
+                  <div class="form-group">
+                      <label class="control-label" for="time">Time</label>
+                      <input type="text" name="time" class="form-control" placeholder="time selector" ng-model="formData.time">
+                  </div>
+                </div>
+                <div class="col-md-4">
+                  <div class="form-group">
+                      <label class="control-label" for="time_regex">Time Regex</label>
+                      <input type="text" name="time_regex" class="form-control" placeholder="time regex selector" ng-model="formData.time_regex">
+                  </div>
+                </div>
+              </div>
+
+              <div class="form-group">
+                  <button type="submit" class="btn btn-primary">Save</button>
+                  <a type="button" class="btn btn-default" ui-sref="home">Cancel</a>
+              </div>
+            </form>
+
+            <pre>data = {{formData | json}}</pre>
+          </div>
+        </div>
+
+      </div>
+    </div>

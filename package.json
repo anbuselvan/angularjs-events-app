@@ -1,0 +1,16 @@
+{
+  "name": "eventsapp",
+  "version": "0.0.1",
+  "description": "A light weight web scrapper to extract event data from popular events listing websites.",
+  "main": "server.js",
+  "author": "Anbuselvan Periannan",
+  "dependencies": {
+    "body-parser": "^1.10.2",
+    "cheerio": "^0.18.0",
+    "express": "^4.11.1",
+    "method-override": "^2.3.1",
+    "mongoose": "^3.8.22",
+    "morgan": "^1.5.1",
+    "sync-request": "^2.0.0"
+  }
+}

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html ng-app="eventsApp">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Events App</title>
+  <link rel="stylesheet" href="/components/bootstrap/dist/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/components/bootstrap/dist/css/bootstrap-theme.min.css">
+  <link rel="stylesheet" href="/css/style.css">
+
+  <base href="/"></base>
+</head>
+<body>
+  <div class="container">
+
+    <nav class="navbar navbar-inverse">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-close">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" ui-sref="home">Events App</a>
+        </div>
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+          <ul class="nav navbar-nav navbar-right">
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Manage <span class="caret"></span></a>
+              <ul class="dropdown-menu" role="menu">
+                <li><a ui-sref="home">List Websites</a></li>
+                <li><a ui-sref="add">Add New Website</a></li>
+                <li class="divider"></li>
+                <li><a ui-sref="about">About</a></li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <div class="pull-right"><img id="spinner" ng-src="img/spinner.gif" style="display:none"></div>
+    <div ui-view></div>
+
+  </div>
+
+  <script src="/components/jquery/dist/jquery.min.js"></script>
+  <script src="/components/bootstrap/dist/js/bootstrap.min.js"></script>
+  <script src="/components/angular/angular.min.js"></script>
+  <script src="/components/angular-ui-router/release/angular-ui-router.min.js"></script>
+  <script src="/js/app.js"></script>
+  <script src="/js/routes.js"></script>
+  <script src="/js/home.js"></script>
+  <script src="/js/add.js"></script>
+  <script src="/js/edit.js"></script>
+  <script src="/js/events.js"></script>
+  <script src="/js/about.js"></script>
+</body>
+</html>

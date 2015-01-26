@@ -1,0 +1,1206 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"$loc",
+				"$location	AngularJS"
+			],
+			[
+				"title",
+				"titleFound	(bool)"
+			],
+			[
+				"$route",
+				"$routeParams	AngularJS"
+			],
+			[
+				"unde",
+				"undefined	(?)"
+			],
+			[
+				"FE",
+				"FeedEntries	(?)"
+			],
+			[
+				"coffee",
+				"coffeeSources	[]"
+			],
+			[
+				"from",
+				"fromCharCode(code)"
+			],
+			[
+				"getFB",
+				"getFBProfilePic"
+			],
+			[
+				"carousel",
+				"carouselSlick"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"ng-re",
+				"ng-repeat	AngularJS"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"zone",
+				"zoneId"
+			],
+			[
+				"socket",
+				"socketId"
+			],
+			[
+				"log",
+				"logLevel"
+			],
+			[
+				"conn",
+				"connect"
+			],
+			[
+				"client",
+				"clientGroups"
+			],
+			[
+				"user",
+				"userToken"
+			],
+			[
+				"query",
+				"queryString"
+			],
+			[
+				"base",
+				"base64_encode"
+			],
+			[
+				"access",
+				"access_token"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"device",
+				"device_id"
+			],
+			[
+				"property",
+				"property_id"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"new",
+				"newid"
+			],
+			[
+				"stree",
+				"street1"
+			],
+			[
+				"addresses",
+				"addresses"
+			],
+			[
+				"proper",
+				"property_id  (variable)"
+			],
+			[
+				"propert",
+				"property_name  (variable)"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"content",
+				"content3  (variable)"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"spi",
+				"split"
+			],
+			[
+				"data_page",
+				"data_page_item"
+			],
+			[
+				"data",
+				"data_page"
+			],
+			[
+				"path",
+				"path_parts"
+			],
+			[
+				"upload",
+				"uploadedUrl"
+			],
+			[
+				"class",
+				"class	class …"
+			],
+			[
+				"to",
+				"toString  (function)"
+			],
+			[
+				"dialog_add",
+				"dialog_address_confirm"
+			],
+			[
+				"current",
+				"currentUserID"
+			],
+			[
+				"backgroun",
+				"background-image:   (property)"
+			],
+			[
+				"json_d",
+				"json_encode"
+			],
+			[
+				"ac",
+				"activation_key"
+			],
+			[
+				"fun",
+				"function_exists"
+			],
+			[
+				"function",
+				"function_exists"
+			],
+			[
+				"echo",
+				"echoMessage  (function)"
+			],
+			[
+				"invalid",
+				"invalidRequest"
+			],
+			[
+				"j",
+				"jQuery.parseJSON	jQuery.parseJSON"
+			],
+			[
+				"remove",
+				"removeAttr	.removeAttr()"
+			],
+			[
+				"fade",
+				"fadeOut  (function)"
+			],
+			[
+				"shake",
+				"shakeModal"
+			],
+			[
+				"table",
+				"table_name"
+			],
+			[
+				"required",
+				"Required"
+			],
+			[
+				"ref",
+				"reference_table_field  (variable)"
+			],
+			[
+				"foreign",
+				"add_foreign_key"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"timelineac",
+				"timelineActionListGoals"
+			],
+			[
+				"add",
+				"addClass	addClass"
+			],
+			[
+				"overfl",
+				"overflow-y:   (property)"
+			],
+			[
+				"hide",
+				"hidePopover"
+			],
+			[
+				"inli",
+				"inline-table"
+			],
+			[
+				"im",
+				"important	!important"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"plugin",
+				"plugins_url  (function)"
+			],
+			[
+				"str_rep",
+				"str_replace  (function)"
+			],
+			[
+				"backgrou",
+				"background-color:   (property)"
+			],
+			[
+				"remo",
+				"remove	.remove()"
+			],
+			[
+				"back",
+				"background-color:   (property)"
+			],
+			[
+				"tal",
+				"table-cell  (value)"
+			],
+			[
+				"backgron",
+				"background-color:   (property)"
+			],
+			[
+				"z-in",
+				"z-index"
+			],
+			[
+				"show",
+				"showError"
+			],
+			[
+				"bttcall",
+				"bttcallv"
+			],
+			[
+				"btn",
+				"btncallv"
+			],
+			[
+				"dataCh",
+				"dataChk1"
+			],
+			[
+				"sli",
+				"slideToggle  (function)"
+			],
+			[
+				"inline",
+				"inline-block  (value)"
+			],
+			[
+				"background",
+				"background-color:   (property)"
+			],
+			[
+				"respon",
+				"response  (argument)"
+			],
+			[
+				"update_",
+				"update_option"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"show_admin",
+				"show_admin_menu"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"list-s",
+				"list-style"
+			],
+			[
+				"get_hea",
+				"get_headers"
+			],
+			[
+				"get_he",
+				"get_header"
+			],
+			[
+				"co",
+				"colspan	Attr"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"get_templ",
+				"get_template_directory_uri"
+			],
+			[
+				"get_template",
+				"get_template_directory"
+			],
+			[
+				"styleshee",
+				"stylesheet_uri"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/Node.sublime-build",
+	"command_palette":
+	{
+		"height": 109.0,
+		"selected_items":
+		[
+			[
+				"prett",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"pret",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"wrap",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"wra",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"buil",
+				"Build: Build"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"fetch",
+				"Fetch: File"
+			],
+			[
+				"coffee",
+				"Coffee: Quick Run Bar"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"j",
+				"Javascript Beautify"
+			],
+			[
+				"instll",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Preferences: Browse Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"uplo",
+				"SFTP: Upload File"
+			],
+			[
+				"lorum",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"up",
+				"SFTP: Upload File"
+			],
+			[
+				"UP",
+				"SFTP: Upload File"
+			],
+			[
+				"upload",
+				"SFTP: Upload File"
+			],
+			[
+				"Snippet: ",
+				"Snippet: foreach …"
+			],
+			[
+				"model",
+				"Snippet: CodeIgniter Model"
+			],
+			[
+				"mini",
+				"Minify Javascript to file"
+			],
+			[
+				"min",
+				"Minify::Minify File"
+			],
+			[
+				"upl",
+				"SFTP: Upload File"
+			],
+			[
+				"",
+				"Bookmarks: Select Previous"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"plan",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"yaml",
+				"Pretty YAML: Reformat (Pretty Print) YAML"
+			],
+			[
+				"insat",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"u",
+				"Minify::User File Settings"
+			],
+			[
+				"remove p",
+				"Package Control: Remove Package"
+			],
+			[
+				"yu",
+				"Minify::User File Settings"
+			],
+			[
+				"U",
+				"SFTP: Upload File"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"sub",
+				"SublimeBookmarks: Remove A Bookmark"
+			],
+			[
+				"bookm",
+				"SublimeBookmarks: Add Bookmark"
+			],
+			[
+				"book",
+				"Bookmarks: Toggle"
+			],
+			[
+				"bookmar",
+				"Bookmarks: Toggle"
+			],
+			[
+				"y",
+				"Yii Docs Search"
+			],
+			[
+				"sftp",
+				"SFTP: Show Panel"
+			],
+			[
+				"form",
+				"Format: Javascript"
+			],
+			[
+				"gist",
+				"Gist: Insert Gist"
+			],
+			[
+				"colorpi",
+				"Color Picker"
+			],
+			[
+				"inst",
+				"Snippet: bs3-input-submit-h"
+			],
+			[
+				"m",
+				"Minify Javascript to file"
+			],
+			[
+				"M",
+				"Minify Javascript to file"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"sftp uplo",
+				"SFTP: Upload File"
+			],
+			[
+				"mi",
+				"Minify::Minify File"
+			],
+			[
+				"MI",
+				"Minify::Minify File"
+			],
+			[
+				"mni",
+				"Minify Javascript to file"
+			],
+			[
+				"fet",
+				"Fetch: Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"mana",
+				"Fetch: Manage"
+			],
+			[
+				"in",
+				"Snippet: input - number"
+			],
+			[
+				"new",
+				"File: New File Relative to Current View"
+			],
+			[
+				"snippet: ",
+				"Snippet: <aside>"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"new ",
+				"File: New File Relative to Current View"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"package",
+				"Package Control: Disable Package"
+			]
+		],
+		"width": 710.0
+	},
+	"console":
+	{
+		"height": 299.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"view.run_command('example')",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/anbuselvanperiannan/SpotOn/assignment/angularjs-events-app",
+		"/Users/anbuselvanperiannan/SpotOn/assignment/angularjs-events-app/public",
+		"/Users/anbuselvanperiannan/SpotOn/assignment/angularjs-events-app/public/components"
+	],
+	"file_history":
+	[
+		"/Users/anbuselvanperiannan/SpotOn/assignment/angularjs-events-app/public/js/routes.js",
+		"/Users/anbuselvanperiannan/SpotOn/assignment/angularjs-events-app/public/js/restapp.js",
+		"/Users/anbuselvanperiannan/SpotOn/assignment/angularjs-events-app/public/js/home.js",
+		"/Users/anbuselvanperiannan/SpotOn/assignment/angularjs-events-app/public/js/events.js",
+		"/Users/anbuselvanperiannan/SpotOn/assignment/angularjs-events-app/public/js/edit.js",
+		"/Users/anbuselvanperiannan/SpotOn/assignment/angularjs-events-app/public/js/add.js",
+		"/Users/anbuselvanperiannan/SpotOn/assignment/angularjs-events-app/public/js/about.js",
+		"/Users/anbuselvanperiannan/SpotOn/assignment/angularjs-events-app/public/index.html",
+		"/Users/anbuselvanperiannan/SpotOn/assignment/angularjs-events-app/server.js",
+		"/Users/anbuselvanperiannan/SpotOn/assignment/angularjs-events-app/package.json",
+		"/Users/anbuselvanperiannan/SpotOn/assignment/angularjs-events-app/bower.json",
+		"/Users/anbuselvanperiannan/SpotOn/assignment/angularjs-events-app/.bowerrc",
+		"/Users/anbuselvanperiannan/SpotOn/assignment/angularjs-events-app/README.md",
+		"/Users/anbuselvanperiannan/SpotOn/assignment/restapp/public/index.html",
+		"/Users/anbuselvanperiannan/SpotOn/assignment/restapp/public/js/home.js",
+		"/Users/anbuselvanperiannan/SpotOn/assignment/restapp/public/views/edit.html",
+		"/Users/anbuselvanperiannan/SpotOn/assignment/restapp/public/js/events.js",
+		"/Users/anbuselvanperiannan/SpotOn/assignment/restapp/public/js/add.js",
+		"/Users/anbuselvanperiannan/SpotOn/assignment/restapp/public/views/add.html",
+		"/Users/anbuselvanperiannan/SpotOn/assignment/restapp/public/js/edit.js",
+		"/Users/anbuselvanperiannan/SpotOn/assignment/restapp/public/views/events.html",
+		"/Users/anbuselvanperiannan/SpotOn/assignment/restapp/public/views/home.html",
+		"/Users/anbuselvanperiannan/SpotOn/assignment/restapp/public/css/style.css",
+		"/Users/anbuselvanperiannan/SpotOn/assignment/restapp/public/js/restapp.js",
+		"/Users/anbuselvanperiannan/SpotOn/assignment/restapp/public/js/routes.js",
+		"/Users/anbuselvanperiannan/SpotOn/assignment/restapp/server.js",
+		"/Users/anbuselvanperiannan/SpotOn/assignment/restapp/bower.json",
+		"/Users/anbuselvanperiannan/SpotOn/assignment/restapp/package.json",
+		"/Users/anbuselvanperiannan/SpotOn/assignment/restapp/public/js/about.js",
+		"/Users/anbuselvanperiannan/SpotOn/assignment/restapp/.bowerrc",
+		"/Users/anbuselvanperiannan/SpotOn/assignment/restapp/public/js/config.js",
+		"/Users/anbuselvanperiannan/SpotOn/assignment/restapp/public/views/about.html",
+		"/Users/anbuselvanperiannan/SpotOn/assignment/restapp/public/partials/home.html",
+		"/Users/anbuselvanperiannan/SpotOn/assignment/restapp/public/partials/website.html",
+		"/Users/anbuselvanperiannan/SpotOn/assignment/restapp/public/restapp.js",
+		"/Users/anbuselvanperiannan/SpotOn/assignment/restapp/public/js/validator.js",
+		"/Users/anbuselvanperiannan/SpotOn/assignment/restapp/public/style.css",
+		"/Users/anbuselvanperiannan/SpotOn/scraping/thprd1.js",
+		"/Users/anbuselvanperiannan/SpotOn/scraping/example.js",
+		"/Users/anbuselvanperiannan/SpotOn/scraping/thprd.js",
+		"/Users/anbuselvanperiannan/Meteor/songnotes/client/lib/main.js",
+		"/Users/anbuselvanperiannan/Meteor/songnotes/client/lib/song.js",
+		"/Users/anbuselvanperiannan/Meteor/songnotes/common.js",
+		"/Users/anbuselvanperiannan/Meteor/songnotes/client/editor.js",
+		"/Users/anbuselvanperiannan/Meteor/songnotes/client/lib/Recorderjs/recorder.js",
+		"/Users/anbuselvanperiannan/Meteor/songnotes/client/lib/audio.js",
+		"/Users/anbuselvanperiannan/Meteor/songnotes/server/server.js",
+		"/Users/anbuselvanperiannan/Meteor/songnotes/lib/route.js",
+		"/Users/anbuselvanperiannan/Meteor/songnotes/client/templates/audio.html",
+		"/Users/anbuselvanperiannan/Meteor/songnotes/client/audio-interface.js",
+		"/Users/anbuselvanperiannan/Meteor/songnotes/client/style.less",
+		"/Users/anbuselvanperiannan/Meteor/songnotes/public/recorderWorker.js",
+		"/Users/anbuselvanperiannan/Meteor/songnotes/public/grill.png",
+		"/Users/anbuselvanperiannan/Meteor/songnotes/public/songwriter-app.jpg",
+		"/Users/anbuselvanperiannan/Meteor/songnotes/client/title-bar.js",
+		"/Users/anbuselvanperiannan/Meteor/songnotes/client/song-list.js",
+		"/Users/anbuselvanperiannan/Meteor/songnotes/client/templates/layout.html",
+		"/Users/anbuselvanperiannan/Meteor/songnotes/client/templates/song-list.html",
+		"/Users/anbuselvanperiannan/Cole/backup/twitter-feed/.meteor/packages",
+		"/Users/anbuselvanperiannan/Cole/backup/twitter-feed/settings.json",
+		"/Users/anbuselvanperiannan/Cole/backup/fckapp2/fckapp.js",
+		"/Users/anbuselvanperiannan/Cole/backup/fckapp2/.meteor/cordova-plugins",
+		"/Users/anbuselvanperiannan/Cole/fckapp/fckapp.html",
+		"/Users/anbuselvanperiannan/Cole/fckapp/.meteor/packages",
+		"/Users/anbuselvanperiannan/Cole/backup/fckapp2/.meteor/platforms",
+		"/Users/anbuselvanperiannan/Cole/backup/fckapp2/.meteor/packages",
+		"/Users/anbuselvanperiannan/Meteor-Projects/silov/silov.js",
+		"/Users/anbuselvanperiannan/Meteor-Projects/silov/.meteor/packages",
+		"/Users/anbuselvanperiannan/Meteor/localmarket/.meteor/versions",
+		"/Users/anbuselvanperiannan/Meteor/localmarket/.meteor/release",
+		"/Users/anbuselvanperiannan/Meteor/localmarket/.meteor/platforms",
+		"/Users/anbuselvanperiannan/Meteor/localmarket/README.md",
+		"/Users/anbuselvanperiannan/Meteor/localmarket/lib/bookmarks.js",
+		"/Users/anbuselvanperiannan/Meteor/localmarket/lib/news.js",
+		"/Users/anbuselvanperiannan/Meteor/localmarket/lib/activities.js",
+		"/Users/anbuselvanperiannan/Meteor/localmarket/lib/recipes-data.js",
+		"/Users/anbuselvanperiannan/Meteor/localmarket/client/init.js",
+		"/Users/anbuselvanperiannan/Meteor/localmarket/lib/router.js",
+		"/Users/anbuselvanperiannan/Meteor/localmarket/client/templates/recipe.html",
+		"/Users/anbuselvanperiannan/Meteor/localmarket/client/templates/recipe.import.less",
+		"/Users/anbuselvanperiannan/Meteor/localmarket/client/templates/recipes.html",
+		"/Users/anbuselvanperiannan/Meteor/localmarket/client/templates/recipe.js",
+		"/Users/anbuselvanperiannan/Meteor/localmarket/client/templates/nav.html",
+		"/Users/anbuselvanperiannan/Meteor/localmarket/client/templates/nav.js",
+		"/Users/anbuselvanperiannan/Meteor/localmarket/client/templates/about.import.less",
+		"/Users/anbuselvanperiannan/Meteor/localmarket/client/templates/about.html",
+		"/Users/anbuselvanperiannan/Meteor/localmarket/.meteor/packages",
+		"/Users/anbuselvanperiannan/Meteor/localmarket/server/publications.js",
+		"/Users/anbuselvanperiannan/Meteor/localmarket/resources/splash/splash-1024x768@2x.png",
+		"/Users/anbuselvanperiannan/Meteor/localmarket/resources/splash/splash-1024x768.png",
+		"/Users/anbuselvanperiannan/Meteor/localmarket/server/users.js",
+		"/Users/anbuselvanperiannan/Meteor/localmarket/server/_settings.js",
+		"/Users/anbuselvanperiannan/Meteor/localmarket/mobile-config.js",
+		"/Users/anbuselvanperiannan/Meteor-Projects/nowopen/settings.js",
+		"/Users/anbuselvanperiannan/Meteor-Projects/nowopen/nowopen.todo",
+		"/Users/anbuselvanperiannan/Meteor-Projects/nowopen/nowopen.js",
+		"/Users/anbuselvanperiannan/Meteor-Projects/nowopen/nowopen.html",
+		"/Users/anbuselvanperiannan/Meteor-Projects/nowopen/server/publications.js",
+		"/Users/anbuselvanperiannan/Meteor-Projects/nowopen/server/lib/permissions.js",
+		"/Users/anbuselvanperiannan/Meteor-Projects/nowopen/lib/methods.js",
+		"/Users/anbuselvanperiannan/Meteor-Projects/nowopen/lib/constants.js",
+		"/Users/anbuselvanperiannan/Meteor-Projects/nowopen/client/body.html",
+		"/Users/anbuselvanperiannan/Meteor-Projects/nowopen/client/head.html",
+		"/Users/anbuselvanperiannan/Meteor-Projects/nowopen/client/style.css",
+		"/Users/anbuselvanperiannan/Meteor-Projects/nowopen/mobile-config.js",
+		"/Users/anbuselvanperiannan/Meteor-Projects/nowopen/nowopen.sublime-project",
+		"/Users/anbuselvanperiannan/Clover/smart-app/app.yaml",
+		"/Users/anbuselvanperiannan/Clover/smart-app/application/__init__.py",
+		"/Users/anbuselvanperiannan/Compass/gruntfile.js",
+		"/Users/anbuselvanperiannan/Compass/components/sass/styles.scss",
+		"/Users/anbuselvanperiannan/Compass/index.html",
+		"/Users/anbuselvanperiannan/Compass/config.rb",
+		"/Users/anbuselvanperiannan/Compass/css/styles.css",
+		"/Users/anbuselvanperiannan/Compass/js/script.js",
+		"/Users/anbuselvanperiannan/Compass/components/js/other.js",
+		"/Users/anbuselvanperiannan/Compass/components/js/script.js",
+		"/Users/anbuselvanperiannan/Compass/package.json",
+		"/Users/anbuselvanperiannan/Compass/css/style.css",
+		"/Users/anbuselvanperiannan/Coffee/gulpfile.js",
+		"/Users/anbuselvanperiannan/Coffee/components/coffee/script.coffee",
+		"/Users/anbuselvanperiannan/Coffee/components/scripts/script.js",
+		"/Users/anbuselvanperiannan/Coffee/index.html",
+		"/Users/anbuselvanperiannan/Coffee/js/script.js",
+		"/Users/anbuselvanperiannan/Coffee/components/scripts/jquery.min.js",
+		"/Users/anbuselvanperiannan/Coffee/components/scripts/:*! jQuery v1.11.1 | (c) 2005, 2014 jQuery Foundat",
+		"/Users/anbuselvanperiannan/Coffee/components/sass/main.scss",
+		"/Users/anbuselvanperiannan/Coffee/css/style.css",
+		"/Users/anbuselvanperiannan/Coffee/sass/main.scss"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"",
+			"/Users/anbuselvanperiannan/iCanGive/icangive-org",
+			"",
+			"*.js",
+			"",
+			"*.css",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"rest",
+			"restApp",
+			"rest",
+			"app.get('/api/website",
+			".url",
+			"site",
+			".type",
+			"'recording'",
+			"Error",
+			"Success",
+			"temp.wav",
+			"deleteSongModal",
+			"record",
+			"currentSongId",
+			"newSound",
+			"recordingAllowed",
+			"max_sound",
+			"titleBar",
+			"publish",
+			"'sounds'",
+			"\"sounds\"",
+			"recording",
+			"soundLoading",
+			"subscribe",
+			"publish",
+			"cache.get",
+			"cache",
+			"userCanAddSounds",
+			"startRecording",
+			"RecipesData",
+			"waypoint",
+			"waypont",
+			"indent",
+			"date_default_timezone_set",
+			"template",
+			"ttl",
+			".update",
+			"fb_pages",
+			"fb_page.",
+			"getPageFeed",
+			"percolatestudio",
+			"SyncedCron",
+			"describe(\"",
+			"Meteor.call(",
+			"console",
+			"token",
+			"fb_page",
+			"\n                ",
+			"\"",
+			"loginWithFacebook",
+			"configureFacebook",
+			"meteor_accounts_loginServiceConfiguration",
+			"loginServiceConfiguration",
+			"window.appInfo",
+			"facebook",
+			"appid",
+			"data",
+			"Meteor.subscribe",
+			"'socially'",
+			"__meteor_bootstrap__",
+			"Meteor.isServer",
+			"dir",
+			"@link-hover-decoration",
+			"forms",
+			"@cursor-disabled",
+			"@link-hover-decoration",
+			"Downloading packages",
+			"@link-hover-decoration",
+			"link-hover-decoration",
+			"insert",
+			"clear",
+			"express.",
+			"dir",
+			"AssetCtrl",
+			"$upload",
+			"pull",
+			"splice",
+			".find",
+			".query",
+			"query",
+			".query",
+			".find",
+			"angular.forEach",
+			"markModified",
+			".save",
+			".update(",
+			".save(",
+			"siteinfos",
+			"UstateCtrl",
+			"container",
+			"count",
+			"console.log(",
+			"authenticate",
+			"query",
+			"'POST'",
+			"query",
+			"$http.delete",
+			"Modal",
+			"Modal.",
+			"/messages",
+			"/messages/",
+			"/users/",
+			"isLoggedInAsync",
+			"resolve",
+			".role",
+			"role",
+			"'admin'",
+			".role",
+			"getCurrentUser",
+			"currentUser =",
+			"console.log(user)",
+			"console.log",
+			"currentUser =",
+			"currentUser",
+			"console.log",
+			"(user)",
+			"resetPassword",
+			"CountryCtrl",
+			".btn-login",
+			"scale",
+			"/auth/",
+			"'User'",
+			"'Message'",
+			"User.get",
+			"save",
+			"changePassword",
+			"login",
+			"angular.module('h2occApp')"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'",
+			"'success' => false",
+			"'success' => true",
+			"h2ocloudconnect.com",
+			"file",
+			"insert into h2occ_country(code, iso, name) values(",
+			"\");",
+			"\", \"",
+			"\", ",
+			"\");",
+			"insert into h2occ_state(iso, name) values(",
+			"\", \"",
+			"h2ocloudconnect.net",
+			".net",
+			"updateSession",
+			"/img/",
+			"assets/grocery_crud",
+			"col-xs-2",
+			"col-xs-7",
+			"col-md-6 col-sm-9",
+			"col-md-6 col-sm-10",
+			"col-md-6 col-sm-8",
+			"col-md-1 col-sm-1 border_radio2",
+			"col-md-1 col-sm-1 border_radio1",
+			"col-md-6 col-sm-6 border_text1",
+			"col-md-4 col-sm-4",
+			"col-md-8 col-sm-8",
+			"col-md-7 col-sm-7",
+			"col-md-6 col-sm-6",
+			"team",
+			"home2_",
+			"=",
+			", false);",
+			"setCheckValue(",
+			"$('#",
+			"No",
+			"Yes",
+			"home2_",
+			"checkbox",
+			"form-group",
+			"= get_option",
+			"men_",
+			"women_",
+			"<?= ",
+			"<?=",
+			"awn",
+			"AWN",
+			"awn",
+			"tat",
+			"AWN",
+			"awn",
+			"AWN",
+			"awn-",
+			"awncnt",
+			"AWN",
+			"awncontact",
+			"awncf",
+			"awn",
+			"awncontact",
+			"awncf",
+			"awn",
+			"AGN",
+			"agn",
+			"Agn",
+			"agn",
+			"Agn",
+			"agn",
+			"AGN",
+			"agn",
+			"mail.vivlii.com",
+			"vivlii.com"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.IR_Recorder":
+	{
+		"height": 121.0
+	},
+	"output.exec":
+	{
+		"height": 31.0
+	},
+	"output.find_results":
+	{
+		"height": 24.0
+	},
+	"output.sftp":
+	{
+		"height": 102.0
+	},
+	"output.stino_log":
+	{
+		"height": 100.0
+	},
+	"project": "eventsapp.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"bootstrap.json",
+				"meteor-angular-socially/client/styles/custom.bootstrap.json"
+			],
+			[
+				"chart_stats",
+				"application/views/templates/user/chart_stats.tpl"
+			],
+			[
+				"charts.tpl",
+				"application/views/templates/user/charts.tpl"
+			],
+			[
+				"dashboard.tpl",
+				"application/views/templates/user/dashboard.tpl"
+			],
+			[
+				"getevents",
+				"gb\\guide\\pilot_guide_toc_events.php"
+			],
+			[
+				"spc.pilot",
+				"js\\spc.pilot.js"
+			],
+			[
+				"custom-style",
+				"wp-content\\plugins\\awn-admin\\css\\custom-style.css"
+			],
+			[
+				"storage",
+				"webmail\\libraries\\afterlogic\\common\\db\\storage.php"
+			],
+			[
+				"manager.hp",
+				"webmail\\libraries\\afterlogic\\common\\manager.php"
+			],
+			[
+				"account.php",
+				"account.php"
+			],
+			[
+				"logintoaccountex",
+				"system\\libs\\webmail\\examples\\login-to-account-ex.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 264.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
