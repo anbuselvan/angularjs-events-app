@@ -6,8 +6,9 @@ A light weight web scrapper to extract event data from popular events listing we
 // Sample data 
 var websites = [
     {
-        url: 'http://events.stanford.edu',
+        domain: 'events.stanford.edu',
         config: {
+            url: 'http://events.stanford.edu',
             item: '.postcard-link',
             title: 'h3',
             link: 'this',
@@ -22,8 +23,9 @@ var websites = [
         }
     },
     {
-        url: 'https://www.eventbrite.com',
+        domain: 'www.eventbrite.com',
         config: {
+            url: 'https://www.eventbrite.com',
             item: '.event-cards .g-cell',
             title: 'h4',
             link: '.js-xd-preferred-link',
@@ -38,8 +40,9 @@ var websites = [
         }
     },
     {
-        url: 'http://www.sfmoma.org',
+        domain: 'www.sfmoma.org',
         config: {
+            url: 'http://www.sfmoma.org',
             item: '.mod-link',
             title: '.title',
             link: 'this',
@@ -54,8 +57,9 @@ var websites = [
         }
     },
     {
-        url: 'http://www.meetup.com/find/events/?allMeetups=true&radius=5&userFreeform=Redwood+City%2C+CA&mcId=z94061&mcName=Redwood+City%2C+CA',
+        domain: 'www.meetup.com',
         config: {
+            url: 'http://www.meetup.com/find/events/?allMeetups=true&radius=5&userFreeform=Redwood+City%2C+CA&mcId=z94061&mcName=Redwood+City%2C+CA',
             item: '.event-listing',
             title: 'span[itemprop="name"]',
             link: '.event-title',
