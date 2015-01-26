@@ -1,7 +1,7 @@
 {
   "name": "eventsapp",
   "version": "0.0.1",
-  "description": "A light weight web scrapper to extract event data from popular events listing websites.",
+  "description": "A lightweight web scrapper to extract event data from popular events listing websites.",
   "main": "server.js",
   "author": "Anbuselvan Periannan",
   "dependencies": {
